@@ -6,4 +6,4 @@
 * salt
 
 ## Instructions
-
+Combine ingredients
